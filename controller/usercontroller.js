@@ -12,4 +12,3 @@ exports.createUser = async (req,res)=>{
     res.send(userToAdd)
 }
 
-//n
